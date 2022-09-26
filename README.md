@@ -12,7 +12,7 @@ Direciona o link para whatsapp, instagram e outras redes sociais.
 | :fire: Desafio     | [FullStack - Linktree](x)
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![#vitrinedev](https://github.com/jonathanmesquita/linktree/blob/main/img/linktree-pagina.PNG)
+![](https://github.com/jonathanmesquita/linktree/blob/main/img/linktree-pagina.PNG#vitrinedev)
 
 ## Detalhes do projeto
 
