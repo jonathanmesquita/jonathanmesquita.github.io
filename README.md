@@ -6,7 +6,7 @@ Direciona o link para whatsapp, instagram e outras redes sociais.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Projeto javascript jogo mario.**
+| :sparkles: Nome        | **Projeto Vitrine Linktree.**
 | :label: Tecnologias | javascript, html, css
 | :rocket: URL         | [Site pessoal](https://jonathanmesquita.github.io/linktree/)
 | :fire: Desafio     | [FullStack - Linktree](x)
